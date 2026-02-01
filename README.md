@@ -63,13 +63,13 @@ Traffic Simulator — учебный программный проект для 
 ### Общая схема
 
 ![Диаграмма классов из пакета road_equipment](images/road_equipment.png)
-Диаграмма классов из пакета road_equipment
+Диаграмма классов из пакета RoadEquipment
 
 ![Диаграмма классов из пакета road_users](images/road_users.png)
-Диаграмма классов из пакета road_users
+Диаграмма классов из пакета RoadUsers
 
 ![Диаграмма классов из пакета simulation](images/simulation.png)
-Диаграмма классов из пакета simulation
+Диаграмма классов из пакета Simulation
 
 ### Назначение пакетов
 
